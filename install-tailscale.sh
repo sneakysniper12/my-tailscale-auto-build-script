@@ -7,8 +7,9 @@ set -e
 # USER CONFIG
 # =========================
 
-AUTH_KEY="REPLACE-WITH-YOURE-AUTH-KEY"
-API_KEY="REPLACE-WITH-YOUR-API-KEY"
+# Require environment variables for security
+AUTH_KEY=${AUTH_KEY:?AUTH_KEY environment variable not set}
+API_KEY=${API_KEY:?API_KEY environment variable not set}
 
 TAILNET="shell-NET"
 
