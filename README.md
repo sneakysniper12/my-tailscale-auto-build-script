@@ -45,7 +45,6 @@ COOL FEATURES ABOUT THIS SCRIPT:
         7. duplicate name prevention
         8. automatic system updates
         9. enables tailscale ssh
-        10. 
 
 
 
