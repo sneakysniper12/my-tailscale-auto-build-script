@@ -20,7 +20,7 @@ to do this:
         6. generate an api key and paste it in the notepad
 
 
-this took afew tries to get right, but here's the all in one code:
+this took afew tries to get right, but here's all in one script:
   
           export AUTH_KEY="your AUTH key"
           export API_KEY="your API key"
