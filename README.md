@@ -22,10 +22,10 @@ to do this:
 
 this took afew tries to get right, but here's the all in one code:
   
-  export AUTH_KEY="your AUTH key"
-  export API_KEY="your API key"
-  
-  curl -fsSL https://raw.githubusercontent.com/sneakysniper12/my-tailscale-auto-build-script/main/install-tailscale.sh | sudo AUTH_KEY="$AUTH_KEY" API_KEY="$API_KEY" bash
+          export AUTH_KEY="your AUTH key"
+          export API_KEY="your API key"
+          
+          curl -fsSL https://raw.githubusercontent.com/sneakysniper12/my-tailscale-auto-build-script/main/install-tailscale.sh | sudo AUTH_KEY="$AUTH_KEY" API_KEY="$API_KEY" bash
 
 
 It handles:
