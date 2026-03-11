@@ -7,8 +7,8 @@ set -e
 # USER CONFIG
 # =========================
 
-AUTH_KEY="tskey-auth-kwa47czv7621CNTRL-oLHhKtfcuDZ9bBPRkf3TEZWBZToJzbTh"
-API_KEY="tskey-api-kqriRwDqHV11CNTRL-GuviziYNMG36CT3xbHS4H31J6pin9jBU8"
+AUTH_KEY="REPLACE-WITH-YOURE-AUTH-KEY"
+API_KEY="REPLACE-WITH-YOUR-API-KEY"
 
 TAILNET="shell-NET"
 
