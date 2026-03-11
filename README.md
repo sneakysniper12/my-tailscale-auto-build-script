@@ -34,17 +34,17 @@ installation, configuration, security, network routing, tagging, approval, and n
 
 
 
-COOL FEATURES ABOUT THIS SCRIPT:
+# COOL FEATURES ABOUT THIS SCRIPT:
 
-        1. installs tailscale
-        2. automatically sets up the device as an Exit Node
-        3. auto aproval for the exit node
-        4. automatically logs in. no need for a browser
-        5. auto adds tags to the devices for better categorization
-        6. auto generates a name for the exit node based on location
-        7. duplicate name prevention
-        8. automatic system updates
-        9. enables tailscale ssh
+1. installs tailscale
+2. automatically sets up the device as an Exit Node
+3. auto aproval for the exit node
+4. automatically logs in. no need for a browser
+5. auto adds tags to the devices for better categorization
+6. auto generates a name for the exit node based on location
+7. duplicate name prevention
+8. automatic system updates
+9. enables tailscale ssh
 
 
 
