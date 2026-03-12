@@ -13,8 +13,6 @@ API_KEY=${API_KEY:?API_KEY environment variable not set}
 
 TAILNET="shell-NET"
 
-TAGS="tag:Auto-Built-Exit-Nodes,tag:exitnode"
-
 ENABLE_SSH=true
 
 # =========================
