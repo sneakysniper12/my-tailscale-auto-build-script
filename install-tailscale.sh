@@ -56,7 +56,7 @@ fi
 # Enable auto updates
 if [ "$PKG" = "apt" ]; then
     sudo apt install -y unattended-upgrades
-    sudo systemctl enable unattended-upgrades
+    sudo dpkg-reconfigure -f noninteractive unattended-upgrades
 fi
 
 # Detect location
