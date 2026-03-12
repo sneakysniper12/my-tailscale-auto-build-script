@@ -88,7 +88,6 @@ sudo tailscale up \
 --hostname=$HOSTNAME \
 --advertise-exit-node \
 --accept-routes \
---advertise-tags=$TAGS \
 --ssh
 
 sleep 5
